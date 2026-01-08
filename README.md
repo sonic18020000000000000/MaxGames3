@@ -1,7 +1,7 @@
-# BLAZERGAMES
+# MAXGAMES
 
-*Subscribe to Blazer!!!*
-https://youtube.com/c/blazerhm
+*Subscribe to Max_fish2!!!*
+https://www.youtube.com/@Max_fish2/featured
 
 ## Deployment
 Here are some other deployment options to deploy the site on your own.
